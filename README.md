@@ -1,5 +1,4 @@
 # Word Search Puzzle Solver
-## IF2211 Strategi Algoritma
 ## About Program
 
 This is a program to solve a well-known puzzle called the word search problem. If you don't familiar with the puzzle, you can read more information about the puzzle on https://en.wikipedia.org/wiki/Word_search. 
