@@ -13,7 +13,7 @@ using namespace std;
 const string EOS = "\u001b[0m";
 string dict[] = {"\u001b[31m", "\u001b[32m", "\u001b[33m", "\u001b[34m", "\u001b[35m", "\u001b[36m", "\u001b[37m", "\u001b[31;1m", "\u001b[32;1m", "\u001b[33;1m", "\u001b[34;1m", "\u001b[35;1m"};
 
-// Kamus Umum
+// Global Directiory
 int dx[] = {-1,-1,-1,0,0,1,1,1};
 int dy[] = {-1,0,1,-1,1,-1,0,1};
 int n, m, l, cntWord;
@@ -24,7 +24,7 @@ vector<vector<char>> input;
 vector<vector<string>> output;
 clock_t S, E;
 
-// Interface Awal
+// Interface
 void startProgram(){
     cout << dict[2]+"WELCOME!\n"+EOS;
     cout << "============================================================\n";
@@ -84,6 +84,7 @@ void init(string addrIn, string addrOut){
     in.close();
 }
 
+// Create Analysis For One Word
 void createSummary(vector<pair<int, int>> coor, ofstream& to, long comp, string word, double duration){
     to << "Searched Word: " << word << "\n";
     vector<vector<char>> res(n, vector<char> (m, '-'));
@@ -109,6 +110,7 @@ void createSummary(vector<pair<int, int>> coor, ofstream& to, long comp, string 
     to << "Duration: " << setprecision(10) << duration  << " seconds\n\n";
 }
 
+// Colorize Summarized Solution
 void colorize(vector<pair<int, int>> coor, int id){
     for(auto p: coor){
         int x = p.first;
@@ -117,6 +119,8 @@ void colorize(vector<pair<int, int>> coor, int id){
     }
 }
 
+
+// Main Program
 int main() { 
     string addrIn, addrOut;
     startProgram();
