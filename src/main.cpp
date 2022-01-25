@@ -177,7 +177,7 @@ int main() {
         }
     }
     E = clock();
-    out << "Overall Comparison: " << allcomp << "\n";
+    out << "Overall Comparisons: " << allcomp << "\n";
     out << "Overall Excecution Time : ";
     out << setprecision(10) << (double) (E-S)/CLOCKS_PER_SEC << " seconds \n";
     out.close();
@@ -188,8 +188,8 @@ int main() {
             cout << output[i][j] << " \n"[j==m-1];
         }
     }
-    cout << "\nTotal Words Found: " << cntWord << "\n";
-    cout << "Overall Comparison: " << allcomp << "\n";
+    cout << "\nTotal Word(s) Found: " << cntWord << "\n";
+    cout << "Overall Comparisons: " << allcomp << "\n";
     cout << "Overall Excecution Time : ";
     cout << fixed;
     cout << setprecision(10) << (double) (E-S)/CLOCKS_PER_SEC << " seconds \n";
