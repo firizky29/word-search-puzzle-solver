@@ -18,7 +18,7 @@ A - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - -
 Comparisons Count: 120
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: LABORATORY
 - - - - - - - - - - - - - - - -
@@ -238,7 +238,7 @@ Searched Word: COLLECTION
 - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - -
 Comparisons Count: 210
-Duration: 0.0000000000 seconds
+Duration: 0.0010000000 seconds
 
 Searched Word: ACCIDENT
 - - - - - - - - - - - - - - - -
@@ -395,4 +395,4 @@ Comparisons Count: 387
 Duration: 0.0000000000 seconds
 
 Overall Comparisons: 3723
-Overall Excecution Time : 0.0050000000 seconds 
+Overall Excecution Time : 0.0020000000 seconds 

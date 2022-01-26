@@ -72,7 +72,7 @@ Searched Word: MINNESOTA
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 666
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: PENNSYLVANIA
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -262,7 +262,7 @@ Searched Word: NEVADA
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 861
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: SOUTHDAKOTA
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -870,7 +870,7 @@ Searched Word: WASHINGTON
 - - - - - - O - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - N - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 928
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: MASSACHUSETTS
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1291,4 +1291,4 @@ Comparisons Count: 203
 Duration: 0.0000000000 seconds
 
 Overall Comparisons: 21651
-Overall Excecution Time : 0.0090000000 seconds 
+Overall Excecution Time : 0.0100000000 seconds 

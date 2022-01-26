@@ -13,7 +13,7 @@ using namespace std;
 // Color Dictionary 
 const string EOS = "\u001b[0m"; // to reset color
 string dict[] = {"\u001b[31m", "\u001b[32m", "\u001b[33m", 
-"\u001b[34m", "\u001b[35m", "\u001b[36m", "\u001b[37m", 
+"\u001b[34m", "\u001b[35m", "\u001b[36m", "\u001b[36;1m", 
 "\u001b[31;1m", "\u001b[32;1m", "\u001b[33;1m", "\u001b[34;1m", "\u001b[35;1m"};
 
 // Global Directiory

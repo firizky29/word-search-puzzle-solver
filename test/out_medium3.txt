@@ -671,4 +671,4 @@ Comparisons Count: 379
 Duration: 0.0000000000 seconds
 
 Overall Comparisons: 7291
-Overall Excecution Time : 0.0040000000 seconds 
+Overall Excecution Time : 0.0020000000 seconds 

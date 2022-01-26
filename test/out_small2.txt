@@ -196,7 +196,7 @@ Searched Word: THOSE
 - - - - - - - - - - - - - -
 - - - - - - - - - - - - - -
 Comparisons Count: 192
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: SIT
 - - - - - - - - - - - - - -
@@ -319,4 +319,4 @@ Comparisons Count: 261
 Duration: 0.0000000000 seconds
 
 Overall Comparisons: 2498
-Overall Excecution Time : 0.0030000000 seconds 
+Overall Excecution Time : 0.0010000000 seconds 

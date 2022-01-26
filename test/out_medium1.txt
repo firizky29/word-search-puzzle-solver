@@ -116,7 +116,7 @@ Searched Word: NUCLEAR
 - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - -
 Comparisons Count: 309
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: DIAGRAM
 - - - - - - - - - - - - - - - - - -
@@ -479,4 +479,4 @@ Comparisons Count: 69
 Duration: 0.0000000000 seconds
 
 Overall Comparisons: 4244
-Overall Excecution Time : 0.0060000000 seconds 
+Overall Excecution Time : 0.0020000000 seconds 

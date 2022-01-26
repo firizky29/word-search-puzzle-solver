@@ -68,7 +68,7 @@ Searched Word: COLUMBUS
 - - - - - - - - - - S - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 1010
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: DENVER
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -392,7 +392,7 @@ Searched Word: OKLAHOMACITY
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 183
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: ALBANY
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -716,7 +716,7 @@ Searched Word: CHEYENNE
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 854
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: TRENTON
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -788,7 +788,7 @@ Searched Word: ANNAPOLIS
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 972
-Duration: 0.0000000000 seconds
+Duration: 0.0010000000 seconds
 
 Searched Word: MONTPELIER
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -932,7 +932,7 @@ Searched Word: SPRINGFIELD
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 1019
-Duration: 0.0000000000 seconds
+Duration: 0.0010000000 seconds
 
 Searched Word: TALLAHASSEE
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1004,7 +1004,7 @@ Searched Word: CONCORD
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 1242
-Duration: 0.0000000000 seconds
+Duration: 0.0010000000 seconds
 
 Searched Word: ATLANTA
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1148,7 +1148,7 @@ Searched Word: DESMOINES
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - S E N I O M S E D - - - - - - - - - - - -
 Comparisons Count: 1186
-Duration: 0.0000000000 seconds
+Duration: 0.0010000000 seconds
 
 Overall Comparisons: 19258
-Overall Excecution Time : 0.0070000000 seconds 
+Overall Excecution Time : 0.0090000000 seconds 

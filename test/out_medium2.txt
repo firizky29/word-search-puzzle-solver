@@ -490,7 +490,7 @@ Searched Word: SPLENDID
 - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - -
 Comparisons Count: 316
-Duration: 0.0010000000 seconds
+Duration: 0.0000000000 seconds
 
 Searched Word: NEEDY
 - - - - - - - - - - - - - - - - - - - -
@@ -571,4 +571,4 @@ Comparisons Count: 78
 Duration: 0.0000000000 seconds
 
 Overall Comparisons: 5723
-Overall Excecution Time : 0.0050000000 seconds 
+Overall Excecution Time : 0.0030000000 seconds 
