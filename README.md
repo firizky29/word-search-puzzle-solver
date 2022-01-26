@@ -22,7 +22,7 @@ make all
 ```
 g++ -w -std=c++14 ./src/main.cpp -o ./bin/WordSearchPuzzle
 ```
-3. To run the program type
+3. To run the program type below in the powershell or any shell that supports ANSI colors
 ```
 ./bin/WordSearchPuzzle
 ```
